@@ -1,0 +1,1 @@
+export const capitialize = (str) => str.charArt(0).toUppercase() + Str.slice(1);
